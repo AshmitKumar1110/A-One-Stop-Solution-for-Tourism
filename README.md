@@ -23,7 +23,7 @@ Required packages (listed in requirements.txt)
 Clone the repository:
 ```bash
 pip install -r requirements.txt
-streamlit run boom.py
+streamlit run boom.py```
 
 Install dependencies:
 
@@ -31,11 +31,11 @@ This will render like:
 
 ```bash
 pip install -r requirements.txt
-streamlit run boom.py
+streamlit run boom.py```
 
 Run the application:
 ```bash
-streamlit run boom.py'''
+streamlit run boom.py```
 
 Open the app in your browser at:
 
