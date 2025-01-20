@@ -1,7 +1,7 @@
 
 # A One-Stop Solution for Tourism
 # Overview
-The Explore India Tourism Dashboard is an interactive web application designed to provide users with a comprehensive tourism platform for exploring India's rich cultural, natural, and adventurous destinations. Users can view popular destinations, book hotels, access weather forecasts, interact with personalized travel assistants, and more.
+The A One-Stop Solution for Tourism Dashboard is an interactive web application designed to provide users with a comprehensive tourism platform for exploring India's rich cultural, natural, and adventurous destinations. Users can view popular destinations, book hotels, access weather forecasts, interact with personalized travel assistants, and more.
 
 # Features
 Interactive Destination Explorer: Browse through curated destinations across India, complete with categories, average costs, and availability.
