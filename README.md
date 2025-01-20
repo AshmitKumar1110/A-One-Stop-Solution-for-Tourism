@@ -73,6 +73,7 @@ paypalrestsdk==1.13.3
 Requests==2.32.3
 streamlit==1.39.0
 streamlit_folium==0.23.2
+```
 
 
 # Usage
