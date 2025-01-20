@@ -59,17 +59,21 @@ Required packages (listed in requirements.txt)
 
 
 # Dependencies
-The application uses the following Python libraries:
+## Requirements
 
-plaintext
-Copy
-Edit
+The application uses the following Python libraries. You can install them using the `requirements.txt` file.
+
+### Install Dependencies:
+```bash
+pip install -r requirements.txt
+
 folium==0.19.2
 pandas==2.2.3
 paypalrestsdk==1.13.3
 Requests==2.32.3
 streamlit==1.39.0
 streamlit_folium==0.23.2
+
 
 # Usage
 Navigate through the sidebar to explore various features such as destinations, hotel booking, travel planning, and weather forecasting.
