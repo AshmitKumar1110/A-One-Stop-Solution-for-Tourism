@@ -5,12 +5,19 @@ The Explore India Tourism Dashboard is an interactive web application designed t
 
 # Features
 Interactive Destination Explorer: Browse through curated destinations across India, complete with categories, average costs, and availability.
+
 Dynamic Maps: Explore destinations using an interactive map powered by Folium.
+
 Hotel Booking: View hotel options, calculate costs, and complete bookings with integrated PayPal payment options.
+
 Travel Planner: Customize travel plans by selecting destinations, dates, and budgets.
+
 Weather Forecast: Get real-time weather updates for your chosen destination.
+
 Personalized Chatbot: Interact with an AI-powered assistant to answer your travel queries.
+
 Pricing Calculator: Calculate your travel expenses using a sidebar tool.
+
 User Reviews: Submit and view reviews for destinations and hotels.
 
 # Installation
