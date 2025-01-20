@@ -22,30 +22,39 @@ Required packages (listed in requirements.txt)
 **Steps**
 Clone the repository:
 ```bash
-git clone <repository-url>
-cd explore-india-dashboard'''
+pip install -r requirements.txt
+streamlit run boom.py
+
 Install dependencies:
 
+This will render like:
+
 ```bash
-pip install -r requirements.txt'''
+pip install -r requirements.txt
+streamlit run boom.py
+
 Run the application:
 ```bash
 streamlit run boom.py'''
+
 Open the app in your browser at:
 
 arduino
 Copy
 Edit
 http://localhost:8501
+
+
 **Dependencies**
+
 The application uses the following Python libraries:
 ```plaintext
-streamlit: For building interactive web interfaces
-folium: For creating interactive maps
-pandas: For data manipulation
-requests: For making API requests
-paypalrestsdk: For integrating PayPal payments
-streamlit_folium: For embedding Folium maps into Streamlit apps
+folium==0.19.2
+pandas==2.2.3
+paypalrestsdk==1.13.3
+Requests==2.32.3
+streamlit==1.39.0
+streamlit_folium==0.23.2
 
 **Usage**
 Navigate through the sidebar to explore various features such as destinations, hotel booking, travel planning, and weather forecasting.
