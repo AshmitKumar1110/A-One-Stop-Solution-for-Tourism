@@ -26,26 +26,37 @@ Python 3.8 or later
 Required packages (listed in requirements.txt)
 
 # Steps
-Clone the repository:
-bash
+## Steps to Publish the Project
 
-git clone <repository-url>
-cd <repository-folder>
+1. **Clone the Repository**:
+    ```bash
+    git clone <repository-url>
+    cd <repository-folder>
+    ```
 
-Install dependencies:
-bash
+2. **Install Dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-pip install -r requirements.txt
+3. **Run the Application**:
+    ```bash
+    streamlit run boom.py
+    ```
 
-Run the application:
-bash
+4. **Open in Your Browser**:
+    Visit the following URL:
+    ```
+    http://localhost:8501
+    ```
 
-streamlit run boom.py
+5. **Push the Project to GitHub**:
+    ```bash
+    git add .
+    git commit -m "Initial commit"
+    git push origin main
+    ```
 
-Open the app in your browser at:
-arduino
-
-http://localhost:8501
 
 # Dependencies
 The application uses the following Python libraries:
